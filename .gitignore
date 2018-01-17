@@ -1,0 +1,12 @@
+.DS_Store
+vendor
+vendor/bin
+composer.lock
+composer.phar
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+Homestead.yaml
+Homestead.json
+.env
