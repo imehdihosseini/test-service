@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/coffeetalkh/test-service.svg?branch=master)](https://travis-ci.org/coffeetalkh/test-service)
-[![Code Coverage](https://scrutinizer-ci.com/g/coffeetalkh/test-service/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/coffeetalkh/test-service/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/coffeetalkh/test-service/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/coffeetalkh/test-service/?branch=master)
 
 # The RESTful API
 
