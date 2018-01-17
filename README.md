@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/coffeetalkh/test-service.svg?branch=master)](https://travis-ci.org/coffeetalkh/test-service)
+
 # The RESTful API
 
 Laravel based RESTful APO
